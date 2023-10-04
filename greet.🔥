@@ -1,5 +1,5 @@
 def declare_best_dev_director():
-    print('The best dev director is Nikhil Patel 🤮')
+    print('The best dev director is Scott Susanto')
 
 if __name__ == '__main__':
     declare_best_dev_director()
